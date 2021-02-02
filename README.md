@@ -2,6 +2,7 @@
 3D Printed Case for the Qwiic Keyboard Explorer from Sparkfun
 
 Please note that this design is untested at this time, print at the risk of wasting materials.
+
 [Download Pre-Release in STL & 3MF](https://github.com/dkgrizzly/Keyboard-Explorer-Case/releases/tag/v2021.02.01.beta.01)
 
 This case should fit both SKUs of the keyboard:
