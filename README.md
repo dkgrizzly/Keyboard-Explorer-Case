@@ -4,8 +4,8 @@
 Please note that this design is untested at this time, print at the risk of wasting materials.
 
 This case should fit both SKUs of the keyboard:
-SPX-16184 https://www.sparkfun.com/products/16184
-SPX-17251 https://www.sparkfun.com/products/17251
+[SPX-16184](https://www.sparkfun.com/products/16184) and
+[SPX-17251](https://www.sparkfun.com/products/17251)
 The only difference being which keycaps are included.
 
 A peak array for the prototyping area is present with bosses that should accept an M3 screw.
